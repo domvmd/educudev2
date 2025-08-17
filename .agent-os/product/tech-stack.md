@@ -108,7 +108,7 @@
 ## Development Tools
 
 ### Code Repository
-- **URL:** https://github.com/[organization]/educude
+- **URL:** https://github.com/domvmd/educudev2
 - **Version Control:** Git with GitHub
 
 ### Code Quality

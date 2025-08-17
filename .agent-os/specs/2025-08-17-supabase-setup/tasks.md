@@ -13,14 +13,14 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 1.3 Start local Supabase services with Docker
   - [x] 1.4 Verify Supabase Studio is accessible at localhost:54321
 
-- [ ] 2. Create database migrations for core tables
-  - [ ] 2.1 Create migration for profiles table
-  - [ ] 2.2 Create migration for documents table
-  - [ ] 2.3 Create migration for annotations table
-  - [ ] 2.4 Create migration for quizzes and questions tables
-  - [ ] 2.5 Create migration for study_sessions table
-  - [ ] 2.6 Create migration for shared_documents table
-  - [ ] 2.7 Run migrations and verify all tables created
+- [x] 2. Create database migrations for core tables
+  - [x] 2.1 Create migration for profiles table
+  - [x] 2.2 Create migration for documents table
+  - [x] 2.3 Create migration for annotations table
+  - [x] 2.4 Create migration for quizzes and questions tables
+  - [x] 2.5 Create migration for study_sessions table
+  - [x] 2.6 Create migration for shared_documents table
+  - [x] 2.7 Run migrations and verify all tables created
 
 - [ ] 3. Implement Row Level Security policies
   - [ ] 3.1 Write tests for RLS policies

@@ -38,10 +38,10 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 4.5 Set up storage policies and size limits
   - [x] 4.6 Verify authentication and storage working
 
-- [ ] 5. Create helper functions and final setup
-  - [ ] 5.1 Create update_timestamp trigger function
-  - [ ] 5.2 Apply triggers to all relevant tables
-  - [ ] 5.3 Create database indexes for performance
-  - [ ] 5.4 Set up environment variables template
-  - [ ] 5.5 Document local development setup steps
-  - [ ] 5.6 Run full test suite to verify everything works
+- [x] 5. Create helper functions and final setup
+  - [x] 5.1 Create update_timestamp trigger function
+  - [x] 5.2 Apply triggers to all relevant tables
+  - [x] 5.3 Create database indexes for performance
+  - [x] 5.4 Set up environment variables template
+  - [x] 5.5 Document local development setup steps
+  - [x] 5.6 Run full test suite to verify everything works

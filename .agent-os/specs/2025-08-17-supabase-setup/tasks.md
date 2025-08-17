@@ -22,13 +22,13 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 2.6 Create migration for shared_documents table
   - [x] 2.7 Run migrations and verify all tables created
 
-- [ ] 3. Implement Row Level Security policies
-  - [ ] 3.1 Write tests for RLS policies
-  - [ ] 3.2 Create RLS migration for documents table
-  - [ ] 3.3 Create RLS migration for annotations table
-  - [ ] 3.4 Create RLS migration for quizzes and questions tables
-  - [ ] 3.5 Create RLS migration for remaining tables
-  - [ ] 3.6 Verify all RLS policies are working
+- [x] 3. Implement Row Level Security policies
+  - [x] 3.1 Write tests for RLS policies
+  - [x] 3.2 Create RLS migration for documents table
+  - [x] 3.3 Create RLS migration for annotations table
+  - [x] 3.4 Create RLS migration for quizzes and questions tables
+  - [x] 3.5 Create RLS migration for remaining tables
+  - [x] 3.6 Verify all RLS policies are working
 
 - [ ] 4. Configure authentication and storage
   - [ ] 4.1 Write tests for authentication flows

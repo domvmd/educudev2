@@ -11,7 +11,7 @@
 
 ### Must-Have Features
 
-- [ ] Supabase project setup with Educude schema - Set up authentication, database tables, and storage buckets `M`
+- [x] Supabase project setup with Educude schema - Set up authentication, database tables, and storage buckets `M`
 - [ ] Marker PDF processing integration - Test on 5 sample academic PDFs with dual output `L`
 - [ ] Voyage AI embedding pipeline - Generate and store embeddings in Pinecone `M`
 - [ ] DeepSeek V3 question generation - Create 10 sample questions across Bloom's levels 4-6 `L`

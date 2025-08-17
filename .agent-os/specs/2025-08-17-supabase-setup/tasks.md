@@ -30,13 +30,13 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 3.5 Create RLS migration for remaining tables
   - [x] 3.6 Verify all RLS policies are working
 
-- [ ] 4. Configure authentication and storage
-  - [ ] 4.1 Write tests for authentication flows
-  - [ ] 4.2 Enable email/password authentication
-  - [ ] 4.3 Configure Google OAuth provider settings
-  - [ ] 4.4 Create storage buckets (documents, audio, avatars)
-  - [ ] 4.5 Set up storage policies and size limits
-  - [ ] 4.6 Verify authentication and storage working
+- [x] 4. Configure authentication and storage
+  - [x] 4.1 Write tests for authentication flows
+  - [x] 4.2 Enable email/password authentication
+  - [x] 4.3 Configure Google OAuth provider settings
+  - [x] 4.4 Create storage buckets (documents, audio, avatars)
+  - [x] 4.5 Set up storage policies and size limits
+  - [x] 4.6 Verify authentication and storage working
 
 - [ ] 5. Create helper functions and final setup
   - [ ] 5.1 Create update_timestamp trigger function
